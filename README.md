@@ -25,7 +25,7 @@ Sn1per is an automated scanner that can be used during a penetration test to enu
 * Automatically list SMB users and shares, check for NULL sessions and exploit MS08-067
 * Automatically exploit vulnerable JBoss, Java RMI and Tomcat servers
 * Automatically tests for open X11 servers
-* Auto-pwn added for Metasploitable, ShellShock, MS08-067, Default Tomcat Creds
+* Auto-pwn added for Metasploitable, ShellShock, MS08sni-067, Default Tomcat Creds
 * Performs high level enumeration of multiple hosts and subnets
 * Automatically integrates with Metasploit Pro, MSFConsole and Zenmap for reporting
 * Automatically gathers screenshots of all web sites
